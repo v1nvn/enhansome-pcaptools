@@ -33,10 +33,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2025-11-17T22:29:02Z",
+            "last_commit": "2026-02-08T03:34:33Z",
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 993
+            "stars": 994
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2026-02-06T21:56:13Z",
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 3682
+            "stars": 3686
           }
         },
         {
@@ -181,7 +181,7 @@
             "last_commit": "2023-04-10T15:30:02Z",
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3326
+            "stars": 3329
           }
         },
         {
@@ -785,7 +785,7 @@
             "last_commit": "2024-03-27T20:39:48Z",
             "owner": "sleuthkit",
             "repo": "scalpel",
-            "stars": 668
+            "stars": 669
           }
         },
         {
@@ -823,10 +823,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:16:56.936Z",
+    "last_updated": "2026-02-08T04:31:08.964Z",
     "original_repository": "caesar0301/awesome-pcaptools",
     "source_repository": "v1nvn/enhansome-pcaptools",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Untitled"
   }
 }
